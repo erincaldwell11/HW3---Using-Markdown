@@ -1,4 +1,4 @@
-#HW3 - This is a list of 6 common commands
+# HW3 - This is a list of 6 common commands
 1. git init
 + this is to create a new repository
 2. git commit -m "com1"
